@@ -1,0 +1,6 @@
+export const gradients = {
+    indigo: ['#dcd6ff', '#b8adff', '#9285ff', '#7766ff',
+        '#4833ff', '#3525db', '#261ab1', '#1a1093', '#10097a'
+    ],
+    green: ['#dcfdc3', '#affc9d', '#7cf86c', ]
+}
